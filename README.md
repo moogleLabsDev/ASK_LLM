@@ -34,7 +34,7 @@ The platform allows users to:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/Multi-LLM-Chat.git
+   git clone https://github.com/moogleLabsDev/ASK_LLM.git
    cd ASK_LLM
    ```
 
